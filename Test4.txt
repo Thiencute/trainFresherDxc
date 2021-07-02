@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Test 4
 line2
+=======
+Test 3 nef
+line khác nè
+>>>>>>> 08214a9dc57038825bd5d46210cb030b6f090007
